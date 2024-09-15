@@ -32,5 +32,5 @@ int id[] = {__SNR_setuid, /*__SNR_seteuid,*/ __SNR_setreuid, /*__SNR_sentresuid,
 //int audio[] = {};
 //int video[] = {};
 //int bpf[] = {};
-////////////////////////////////////// UNVEIL - UNVEIL - UNVEIL - UNVEIL \\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\
+
 
